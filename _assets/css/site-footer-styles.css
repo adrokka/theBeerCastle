@@ -1,0 +1,14 @@
+/* CSS Styles for the footer element */
+
+.site-footer {
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid var(--color-border-default, #000);
+    margin-top: var(--spacing-layout-element, 2em);
+    padding-top: calc( var(--spacing-layout-element, 2em) / 4 );
+    text-align: center;
+    background: #444;
+    opacity: 0.9;
+    width: 100%;
+    left: 0;
+}
