@@ -1,13 +1,13 @@
 :root {
-    --font-size-body: 18px;
-    --font-size-body-larger: 20px;
-    --font-size-body-big: 22px;
-    --font-size-body-huge: 24px;
+    --font-size-body: 14px;
+    --font-size-body-larger: 16px;
+    --font-size-body-big:18px;
+    --font-size-body-huge: 20px;
 
     --layout-main-width: 60em;
 
     --color-body-bgrd: #444;
-    --color-body-text: #0D090A;
+    --color-body-text: #ff983e;
     --color-link-default: #FF851B;
 
     --color-border-default: #999; 
