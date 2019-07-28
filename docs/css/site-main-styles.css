@@ -8,6 +8,7 @@
 @media (min-width: 600px) {
     .site-main {
         margin: 3em;
+        color: var(--color-body-text, #000);
     }
 
     .site-main .content {

@@ -12,6 +12,7 @@
     padding-bottom: calc( var(--spacing-layout-element, 2em) / 2 );
     text-align: center;
     opacity: 0.9;
+    transition: top 0.3s ease-in;
 }
 
 @media ( min-width: 1024px ) {

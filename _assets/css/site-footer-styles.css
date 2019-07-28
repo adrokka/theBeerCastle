@@ -12,3 +12,7 @@
     width: 100%;
     left: 0;
 }
+
+.site-footer p {
+    padding-bottom: 0.5em;
+}
